@@ -1,7 +1,10 @@
 {
   "main.css": "static/css/main.5311067d.css",
   "main.css.map": "static/css/main.5311067d.css.map",
-  "main.js": "static/js/main.98f933f0.js",
-  "main.js.map": "static/js/main.98f933f0.js.map",
-  "static/media/monstrao.png": "static/media/monstrao.cbd45139.png"
+  "main.js": "static/js/main.180753bb.js",
+  "main.js.map": "static/js/main.180753bb.js.map",
+  "static/media/monster.svg": "static/media/monster.0e02a944.svg",
+  "static/media/monster_do_arrocha.svg": "static/media/monster_do_arrocha.c7a1166c.svg",
+  "static/media/monster_sagrado.svg": "static/media/monster_sagrado.ebb0a4b6.svg",
+  "static/media/sweet_monster.svg": "static/media/sweet_monster.0625e078.svg"
 }
